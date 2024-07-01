@@ -503,9 +503,9 @@
   
   /* Contact Section */
   
-  .contact-form iframe{
-    width:"640px"; 
-    height:"900px";
+  iframe{
+    width: 640px; 
+    height: 900px;
 
   }
   .contact {
