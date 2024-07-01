@@ -554,6 +554,8 @@
     transform: scale(1.01) translateY(-5px);
     color: aqua;
   }
+
+  
   .contact-icons li {
     display: inline-flex;
     justify-content: center;
@@ -716,8 +718,9 @@
 
     /* Home Section */
     .home {
-      background-size: contain;
-      height: 30vh;
+      background-size: 0%;
+      height: 45vh;
+     
      
     }
     .home-content {
@@ -743,8 +746,9 @@
     }
     .about-img img {
       padding-bottom: 5%;
-      padding-top: 60px;
-      max-width: 250px;
+      padding-top: 20%;
+      max-width: 300px;
+      padding-left: 30px;
       border-radius: 50px;
     }
     .about-text h2 {
