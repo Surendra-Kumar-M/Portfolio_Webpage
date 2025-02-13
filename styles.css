@@ -566,8 +566,8 @@
   }
   .top {
     position: fixed;
-    bottom: 2.1rem;
-    right: 2.1rem;
+    bottom: 2rem;
+    right: 2rem;
   }
   .top i {
     color: black;
@@ -764,12 +764,13 @@
     }
     .top {
       position: fixed;
-      bottom: 0.1rem;
-      right: 6.1rem;
+      bottom: 0.75rem;
+      right: 0.75rem;
     }
     .top i {
       font-size: 10px;
       padding: 10px;
+      
     }
   }
   
